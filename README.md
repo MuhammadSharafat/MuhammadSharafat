@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdullahalmasum0755)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/abdullahalmasum0755](https://discord.com/channels/@me)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/muhammadsharafat.alam.1)
 
 # 💻 Tech Stack:
@@ -52,7 +52,7 @@
     <tr>
       <td>
         <a href=" ">
-          <img/>
+          <img height="0" theme=radical&font=Fira%20Code&ext=contest" alt=" "/>
         </a>
       </td>
       <td>
