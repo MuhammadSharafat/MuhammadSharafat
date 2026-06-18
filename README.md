@@ -32,48 +32,24 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-621&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSharafat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abdullah-621&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="abdullah-621 :: Profile Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="MuhammadSharafat :: Profile Stats" height="200px" />
       </td>
     </tr>
     <tr>
   <td colspan="2" align="center">
-    <img src="https://streak-stats.demolab.com?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
+    <img src="https://streak-stats.demolab.com?user=MuhammadSharafat&theme=radical&hide_border=false" height="200px" />
   </td>
 </tr>
-  </table>
-</div>
-
-# 📊 Problem Solving Stats:
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href=" ">
-          <img height="0" theme=radical&font=Fira%20Code&ext=contest" alt=" "/>
-        </a>
-      </td>
-      <td>
-        <a href="https://codeforces.com/profile/simplymasum03" target="_blank">
-          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=simplymasum03&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Abdullah Codeforces Stats"/>
-        </a>
-      </td>
-      <td>
-        <h3 align="center">GeeksForGeeks</h3>
-  <a href="https://www.geeksforgeeks.org/user/abdullah65/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Abdullah GFG Stats" height="316"/>
-  </a>
-</td>
-    </tr>
   </table>
 </div>
 
 # 📊 GitHub Contribution Graph (Real Time)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-621&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Abdullah Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Sharafat Contribution Graph" />
 </p>
 
 # 📊 GitHub Contribution Graph (Static)
