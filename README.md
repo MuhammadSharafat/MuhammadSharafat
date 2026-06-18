@@ -51,8 +51,8 @@
   <table>
     <tr>
       <td>
-        <a href="https://leetcode.com/u/masum65" target="_blank">
-          <img height="316" src="https://leetcard.jacoblin.cool/masum65?theme=radical&font=Fira%20Code&ext=contest" alt="Abdullah Leetcode Stats"/>
+        <a href=" ">
+          <img/>
         </a>
       </td>
       <td>
