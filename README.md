@@ -275,7 +275,7 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Sharafat%20Alam%20-%20Contribution%20Graph" width="95%" alt="Muhammad Sharafat Contribution Graph" />>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Sharafat%20Alam%20-%20Contribution%20Graph" width="95%" alt="Muhammad Sharafat Contribution Graph" />
 
 </div>
 
