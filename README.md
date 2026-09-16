@@ -230,61 +230,29 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 ---
 
-# 📚 Currently Learning
+📚 Currently Learning
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-### 🤖 Machine Learning
-
-</td>
-<td>➡️</td>
-<td align="center">
-
-### 🧠 Deep Learning
-
-</td>
-<td>➡️</td>
-<td align="center">
-
-### 👁️ Computer Vision
-
-</td>
-</tr>
-
-<tr>
-<td colspan="5" align="center">⬇️</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📝 NLP
-
-</td>
-<td>➡️</td>
-<td align="center">
-
-### 🚀 Model Deployment
-
-</td>
-<td>➡️</td>
-<td align="center">
-
-### 💡 AI Applications
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p>
-  <b>🌱 Learning → Building → Deploying → Improving</b>
-</p>
+                    ┌─────────────────────┐
+                    │   Machine Learning  │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   Deep Learning     │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │  Computer Vision    │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │  Model Deployment   │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   AI Applications   │
+                    └─────────────────────┘
 
 </div>
 ---
