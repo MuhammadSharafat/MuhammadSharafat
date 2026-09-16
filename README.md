@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Sharafat Alam
+# 👋 Hi, I'm Mohammad Sharafat Alam
 
 ### 🤖 Aspiring Machine Learning Engineer | AI Enthusiast | Problem Solver
 
@@ -234,17 +234,31 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 <div align="center">
 
-### 🤖 Machine Learning
-↓
-### 🧠 Deep Learning
-↓
-### 👁️ Computer Vision
-↓
-### 📝 Natural Language Processing
-↓
-### 🚀 Model Deployment
-↓
-### 💡 AI Applications
+🤖 **Machine Learning**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🧠 **Deep Learning**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+👁️ **Computer Vision**
+
+<br><br>
+
+⬇️
+
+<br><br>
+
+📝 **Natural Language Processing**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🚀 **Model Deployment**
+&nbsp;&nbsp;→&nbsp;&nbsp;
+💡 **AI Applications**
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+🌱 **Learning → Building → Deploying → Improving**
 
 </div>
 
