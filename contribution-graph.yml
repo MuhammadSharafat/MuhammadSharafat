@@ -1,0 +1,31 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution graph
+        uses: gh-actions/gcchart@v1
+        with:
+          github_username: MuhammadSharafat
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          outputs: |
+            contributions.svg
+
+      - name: Push graph to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: .
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
