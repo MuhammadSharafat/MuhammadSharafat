@@ -234,38 +234,75 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 <div align="center">
 
-```text
-        Machine Learning
-               ↓
-        Deep Learning
-               ↓
-       Computer Vision
-               ↓
- Natural Language Processing
-               ↓
-      Model Deployment
-               ↓
-       AI Applications
+### 🤖 Machine Learning
+↓
+### 🧠 Deep Learning
+↓
+### 👁️ Computer Vision
+↓
+### 📝 Natural Language Processing
+↓
+### 🚀 Model Deployment
+↓
+### 💡 AI Applications
 
+</div>
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSharafat&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com/?user=MuhammadSharafat&theme=radical&hide_border=true" width="70%" /> </div>
+---
 
+# 📊 GitHub Analytics
 
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&theme=react-dark&hide_border=true&area=true&custom_title=Muhammad%20Sharafat%20Alam%20-%20Contribution%20Graph" width="95%" alt="Muhammad Sharafat Contribution Graph" /> </div>
+<div align="center">
 
-🐍 Contribution Snake
-<div align="center"> <picture>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSharafat&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+</div>
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+<br>
 
-</picture> </div>
+<div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=MuhammadSharafat&theme=radical&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&theme=react-dark&hide_border=true&area=true&custom_title=Muhammad%20Sharafat%20Alam%20-%20Contribution%20Graph" width="95%" alt="Muhammad Sharafat Contribution Graph" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake-dark.svg">
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
 
 🌐 Connect With Me
 <div align="center">
