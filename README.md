@@ -43,7 +43,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 </div>
 
-### Object-Oriented Programming
+## Object-Oriented Programming
 
 - OOP (Object-Oriented Programming)
 - Classes & Objects
@@ -145,7 +145,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-## 📝 Natural Language Processing
+### 📝 Natural Language Processing
 
 <div align="center">
 
