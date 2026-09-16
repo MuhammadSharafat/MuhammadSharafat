@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Artificial+Intelligence;Deep+Learning+%7C+Computer+Vision;Python+%7C+C%2B%2B+%7C+Data+Structures;Building+ML+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSharafat&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=MuhammadSharafat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -31,55 +31,79 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 🤖 Machine Learning & AI
+# 🧰 Technical Skills
 
-### 🐍 Programming
+## 🐍 Programming Languages
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+</div>
+
+### Object-Oriented Programming
+
+- OOP (Object-Oriented Programming)
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
+---
+
+# 📊 Data Analysis & Visualization
+
+<div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+</div>
+
 - Exploratory Data Analysis (EDA)
 - Statistics
 - Probability
 - Data Cleaning
+- Data Preprocessing
 - Data Visualization
 - Feature Analysis
 
 ---
 
-# 🧮 Machine Learning
+# 🤖 Machine Learning
 
-### 📐 Dimensionality Reduction
+## 📐 Dimensionality Reduction
 
 ![PCA](https://img.shields.io/badge/PCA-6A1B9A?style=for-the-badge)
-![t--SNE](https://img.shields.io/badge/t--SNE-8E24AA?style=for-the-badge)
+![t-SNE](https://img.shields.io/badge/t--SNE-8E24AA?style=for-the-badge)
 
-### 📈 Supervised Learning
+---
 
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-1565C0?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-1976D2?style=for-the-badge)
+## 📈 Supervised Learning
+
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-1565C0?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-00897B?style=for-the-badge)
 ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-00796B?style=for-the-badge)
 ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-388E3C?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-2E7D32?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/SVM-455A64?style=for-the-badge)
 
-### 🌳 Ensemble Learning
+---
+
+## 🌳 Ensemble Learning
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
 ![AdaBoost](https://img.shields.io/badge/AdaBoost-E65100?style=for-the-badge)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-F57C00?style=for-the-badge)
 
-### 🔵 Unsupervised Learning
+---
+
+## 🔵 Unsupervised Learning
 
 ![Clustering](https://img.shields.io/badge/Clustering-5E35B1?style=for-the-badge)
 
@@ -87,7 +111,9 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 - Hierarchical Clustering
 - Unsupervised Learning
 
-### 🎯 Other ML Concepts
+---
+
+## 🎯 Machine Learning Concepts
 
 - Recommendation Systems
 - Feature Engineering
@@ -101,10 +127,14 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 # 🧠 Deep Learning & Computer Vision
 
+<div align="center">
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🧬 Neural Networks
+</div>
+
+### 🧬 Deep Learning
 
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
@@ -117,7 +147,13 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 # 📝 Natural Language Processing
 
-### 🔤 NLP Concepts
+<div align="center">
+
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+</div>
+
+### 🔤 NLP Skills
 
 - Natural Language Processing (NLP)
 - Tokenization
@@ -126,15 +162,17 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 - Sentiment Analysis
 - Named Entity Recognition (NER)
 
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
 ---
 
-# 💻 Data Structures & Problem Solving
+# 💻 Data Structures & Algorithms
+
+<div align="center">
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00897B?style=for-the-badge)
+
+</div>
 
 - Arrays
 - Linked Lists
@@ -150,6 +188,8 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 # 🛠️ Tools & Technologies
 
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -159,12 +199,18 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+</div>
+
 ---
 
 # 🌐 Web Technologies
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
@@ -186,15 +232,48 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 # 📚 Currently Learning
 
+<div align="center">
+
 ```text
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Computer Vision
-       ↓
-Natural Language Processing
-       ↓
-Model Deployment
-       ↓
-AI Applications
+        Machine Learning
+               ↓
+        Deep Learning
+               ↓
+       Computer Vision
+               ↓
+ Natural Language Processing
+               ↓
+      Model Deployment
+               ↓
+       AI Applications
+
+
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSharafat&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com/?user=MuhammadSharafat&theme=radical&hide_border=true" width="70%" /> </div>
+
+
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSharafat&theme=react-dark&hide_border=true&area=true&custom_title=Muhammad%20Sharafat%20Alam%20-%20Contribution%20Graph" width="95%" alt="Muhammad Sharafat Contribution Graph" /> </div>
+
+🐍 Contribution Snake
+<div align="center"> <picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/github-contribution-grid-snake.svg">
+
+</picture> </div>
+
+
+🌐 Connect With Me
+<div align="center">
+
+</div>
+<div align="center">
+💭 "Learn. Build. Improve. Repeat."
+
+⭐ Thanks for visiting my profile!
+
+</div> ```
