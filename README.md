@@ -54,7 +54,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 📊 Data Analysis & Visualization
+## 📊 Data Analysis & Visualization
 
 <div align="center">
 
@@ -75,16 +75,16 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 🤖 Machine Learning
+## 🤖 Machine Learning
 
-## 📐 Dimensionality Reduction
+### 📐 Dimensionality Reduction
 
 ![PCA](https://img.shields.io/badge/PCA-6A1B9A?style=for-the-badge)
 ![t-SNE](https://img.shields.io/badge/t--SNE-8E24AA?style=for-the-badge)
 
 ---
 
-## 📈 Supervised Learning
+### 📈 Supervised Learning
 
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-1565C0?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-00897B?style=for-the-badge)
@@ -95,7 +95,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-## 🌳 Ensemble Learning
+### 🌳 Ensemble Learning
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
 ![AdaBoost](https://img.shields.io/badge/AdaBoost-E65100?style=for-the-badge)
@@ -103,7 +103,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-## 🔵 Unsupervised Learning
+### 🔵 Unsupervised Learning
 
 ![Clustering](https://img.shields.io/badge/Clustering-5E35B1?style=for-the-badge)
 
@@ -113,7 +113,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-## 🎯 Machine Learning Concepts
+### 🎯 Machine Learning Concepts
 
 - Recommendation Systems
 - Feature Engineering
@@ -125,7 +125,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 🧠 Deep Learning & Computer Vision
+## 🧠 Deep Learning & Computer Vision
 
 <div align="center">
 
@@ -145,7 +145,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 📝 Natural Language Processing
+## 📝 Natural Language Processing
 
 <div align="center">
 
@@ -164,7 +164,7 @@ I enjoy solving programming problems, exploring new technologies, analyzing data
 
 ---
 
-# 💻 Data Structures & Algorithms
+## 💻 Data Structures & Algorithms
 
 <div align="center">
 
@@ -230,7 +230,7 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 ---
 
-📚 Currently Learning
+# 📚 Currently Learning
 
 <div align="center">
 
