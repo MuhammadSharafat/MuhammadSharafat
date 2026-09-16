@@ -275,9 +275,11 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 <div align="center">
 
-src="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/contributions.svg"
+<img
+  src="https://raw.githubusercontent.com/MuhammadSharafat/MuhammadSharafat/output/contributions.svg"
   alt="Muhammad Sharafat Contribution Graph"
   width="95%"
+>
 
 </div>
 
