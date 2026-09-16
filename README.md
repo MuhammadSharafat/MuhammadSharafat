@@ -305,13 +305,26 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 
 ---
 
-🌐 Connect With Me
-<div align="center">
+## 🌐 Connect With Me
 
-</div>
-<div align="center">
-💭 "Learn. Build. Improve. Repeat."
+<p align="center">
 
+<a href="mailto:muhammadsharafatalam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/md_saki">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+💭 <i>"Learn. Build. Improve. Repeat."</i>
+</p>
+
+<p align="center">
 ⭐ Thanks for visiting my profile!
-
-</div> ```
+</p>
