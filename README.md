@@ -251,9 +251,9 @@ A **CNN-based Deep Learning project** for classifying multiple butterfly species
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&show_icons=true&theme=tokyonight)
+<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSharafat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 
